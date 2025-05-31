@@ -16,4 +16,6 @@ For estimation of GARCH models and translation of FGARCH R package, 'arch' Pytho
 
 ![image](https://github.com/DavidAlexanderMoe/Financial-TSA-GARCH-models/assets/122370567/785f7a46-ae36-476d-ad0c-8838877d671d)
 
+</div align="center">
+
 Enjoy!
