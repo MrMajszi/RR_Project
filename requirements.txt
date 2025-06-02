@@ -1,0 +1,14 @@
+#Packages and libraries version:
+
+IPython==8.10.0
+arch==7.2.0
+importnb==2023.11.1
+matplotlib==3.7.0
+numpy==1.23.5
+pandas==1.5.3
+scipy==1.10.0
+seaborn==0.12.2
+statsmodels==0.13.5
+yfinance==0.2.54
+
+Python version: 3.10.9
