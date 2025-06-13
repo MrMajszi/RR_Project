@@ -1,14 +1,20 @@
-#Packages and libraries version:
-
-IPython==8.10.0
+IPython==8.27.0
+# TSA_Finance_Functions (not installed or not found)
+# TSA_Predict_Functions (not installed or not found)
 arch==7.2.0
+# ast (not installed or not found)
 importnb==2023.11.1
-matplotlib==3.7.0
-numpy==1.23.5
-pandas==1.5.3
-scipy==1.10.0
-seaborn==0.12.2
-statsmodels==0.13.5
-yfinance==0.2.54
-
-Python version: 3.10.9
+# json (not installed or not found)
+matplotlib==3.9.2
+numpy==1.26.4
+# os (not installed or not found)
+pandas==2.2.2
+# pkg_resources (not installed or not found)
+scipy==1.13.1
+seaborn==0.13.2
+# sklearn (not installed or not found)
+statsmodels==0.14.2
+# sys (not installed or not found)
+tqdm==4.66.5
+# warnings (not installed or not found)
+# yfinance (not installed or not found)
